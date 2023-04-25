@@ -1,3 +1,4 @@
+<!-- <img src="https://i.ibb.co/3zVNXnX/github-header-image-1.png" width="100%" alt="github-header-image-1"/> -->
 <img src="https://i.ibb.co/6NqDLT4/github-header-image.png" width="100%" alt="github-header-image"/>
 <h1 align="center">Hi 👋, I'm Sagar Khadse</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
